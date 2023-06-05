@@ -91,6 +91,5 @@ function client(factory){
 
 const modernFactory = new ConcreteFactoryModern();
 client(modernFactory);
-
 const vintageFactory = new ConcreteFactoryVintage();
 client(vintageFactory);
