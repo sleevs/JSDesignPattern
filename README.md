@@ -5,33 +5,33 @@ This demostration are design level solutions for recurring problems that in soft
 
 ### Creational patterns
 
-  -  [Factory]
-  -  [Abstract factory]
-  -  [Builder]     
-  -  [Prototype]
-  -  [Singleton]
+  -  [Factory]()
+  -  [Abstract factory]()
+  -  [Builder]()     
+  -  [Prototype]()
+  -  [Singleton]()
 
 ### Structural patterns
 
-  -  [Adapter]
-  -  [Bridge]
-  -  [Composite]
-  -  [Decorator] 
-  -  [Facade]
-  -  [Flyweight]
-  -  [Proxy]
+  -  [Adapter]()
+  -  [Bridge]()
+  -  [Composite]()
+  -  [Decorator]()
+  -  [Facade]()
+  -  [Flyweight]()
+  -  [Proxy]()
 
 
 ### Behavioral patterns
 
-  -  [Chain of responsibility]
-  -  [Command]
-  -  [Iterator]
-  -  [Mediator]
-  -  [Memento]
-  -  [Observer]
-  -  [State - REFACTORY]
-  -  [Strategy - REFACTORY]
-  -  [Template method - REFACTORY]
-  -  [Visitor - REFACTORY]
-  -  [Interpreter]
+  -  [Chain of responsibility]()
+  -  [Command]()
+  -  [Iterator]()
+  -  [Mediator]()
+  -  [Memento]()
+  -  [Observer]()
+  -  [State - REFACTORY]()
+  -  [Strategy - REFACTORY]()
+  -  [Template method - REFACTORY]()
+  -  [Visitor - REFACTORY]()
+  -  [Interpreter]()
