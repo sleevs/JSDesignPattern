@@ -43,8 +43,5 @@ class Proxy extends Subject {
 
 
 const proxy = new Proxy('image.jpg');
-
 proxy.display();
 
-
-proxy.display();
