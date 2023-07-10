@@ -24,6 +24,7 @@ This demostration are design level solutions for recurring problems that in soft
 
 ### Behavioral patterns
 
+  -  [Interpreter - TODO]()
   -  [Chain of responsibility]()
   -  [Command]()
   -  [Iterator]()
