@@ -31,8 +31,8 @@ This demostration are design level solutions for recurring problems that in soft
   -  [Mediator](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/mediator/mediator.js)
   -  [Memento](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/memento/memento.js)
   -  [Observer](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/observer/observer.js)
-  -  [State - REFACTORY](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/state/state.js)
-  -  [Strategy - REFACTORY](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/strategy/strategy.js)
-  -  [Template method - REFACTORY](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/template-method/template-method.js)
-  -  [Visitor - REFACTORY](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/visitor/visitor.js)
+  -  [State](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/state/state.js)
+  -  [Strategy](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/strategy/strategy.js)
+  -  [Template method](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/template-method/template-method.js)
+  -  [Visitor](https://github.com/sleevs/JSDesignPattern/blob/main/behavioral/visitor/visitor.js)
   
